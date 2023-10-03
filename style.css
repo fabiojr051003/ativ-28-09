@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+    background-image: url("fundo-f1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    
+}
+h1 ,h2{
+    background-image: url("bandeira2.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: right;
+    color: white;
+}
+p{
+    line-height: 2;
+    text-indent: 10%;
+}
+
+a:hover{
+    color:rgb(131, 131, 20);
+    text-decoration: underline;
+}
+footer{
+    text-align: center;
+}
